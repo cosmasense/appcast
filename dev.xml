@@ -6,6 +6,18 @@
         <description>Pre-release builds for Cosma Sense. May be unstable.</description>
         <language>en</language>
         <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Tue, 19 May 2026 00:12:40 -0400</pubDate>
+            <sparkle:version>1779163858</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/cosmasense/macos/releases/download/v1.2.0-dev/CosmaSense-1.2.0.zip"
+                length="5716872"
+                type="application/octet-stream"
+                sparkle:edSignature="aRH0dJF4tSX2lcG+vlMvyMryLo4RC+DAL8VN80sIhQB5IhbaFA2tXQYo9Re8L+oG269GRXwavmHdxuOec+OrAw=="/>
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <pubDate>Fri, 15 May 2026 03:11:49 -0400</pubDate>
             <sparkle:version>1778828999</sparkle:version>
